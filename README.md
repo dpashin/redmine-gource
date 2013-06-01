@@ -1,6 +1,6 @@
 # redmine-gource
 
-Redmine activity visualization using gource
+Redmine activity visualization using [gource](http://code.google.com/p/gource/).
 
 ## Legend
 
@@ -35,8 +35,8 @@ Redmine activity visualization using gource
 
 ## Authors
 
-    Dmitriy Pashin <dmitriy.pashin@yandex.ru>
+[Dmitriy Pashin](dmitriy.pashin@yandex.ru)
 
 ## License
 
-    [WTFPL]:(http://www.wtfpl.net/)
+[WTFPL](http://www.wtfpl.net/)
