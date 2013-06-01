@@ -1,0 +1,6 @@
+$connection = Mysql2::Client.new(
+    :host => 'localhost',
+    :database => 'redmine',
+    :username => 'redmine',
+    :password => 'redmine'
+)
